@@ -1,5 +1,7 @@
-## Hi there，👋  
+## Hi there 👋  
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cleiveliu&show_icons=true)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cleiveliu&hide=jupyter%20notebook,css,JavaScript)
+-->
 
 <!--
 **cleiveliu/cleiveliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
